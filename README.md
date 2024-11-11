@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Create App
-creating app command: composer create-project laravel/laravel:^11.0 <projectName>
+creating app command: composer create-project laravel/laravel:^11.0 projectName
 
 ## Learning Laravel
 
